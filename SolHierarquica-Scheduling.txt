@@ -1,0 +1,348 @@
+ Relação de Tarefas - Tempo Inicio - Fim - Duracao: 
+Total de Iteracoes com Planejamento: 5
+-------------------------------------------------------------------------
+Duracao Sequenciamento para periodo: 1 e de: 11.8296
+Capacidade do periodo 1e de :12
+Abordagem Hierarquica
+Total de Tarefas: 19
+
+-------------------------------------------------------------------------
+Tarefa  : Y_45_2_4_1
+   Inicio  : 0
+   Fim     : 0.3382
+   Duracao : 0.3382
+--------------
+
+Tarefa  : Y_46_2_4_1
+   Inicio  : 0
+   Fim     : 0.0783204
+   Duracao : 0.0783204
+--------------
+
+Tarefa  : Z_77_1_1_1
+   Inicio  : 0
+   Fim     : 6.25
+   Duracao : 6.25
+--------------
+
+Tarefa  : Y_53_2_3_1
+   Inicio  : 0
+   Fim     : 0.49716
+   Duracao : 0.49716
+--------------
+
+Tarefa  : X_21_4_1
+   Inicio  : 6.25
+   Fim     : 8.0914
+   Duracao : 1.8414
+--------------
+
+Tarefa  : X_26_4_1
+   Inicio  : 0
+   Fim     : 2.232
+   Duracao : 2.232
+--------------
+
+Tarefa  : X_11_4_1
+   Inicio  : 2.232
+   Fim     : 2.88192
+   Duracao : 0.64992
+--------------
+
+Tarefa  : X_27_5_1
+   Inicio  : 2.88192
+   Fim     : 8.44442
+   Duracao : 5.5625
+--------------
+
+Tarefa  : X_29_3_1
+   Inicio  : 0
+   Fim     : 4.1538
+   Duracao : 4.1538
+--------------
+
+Tarefa  : X_30_5_1
+   Inicio  : 0.3382
+   Fim     : 1.0257
+   Duracao : 0.6875
+--------------
+
+Tarefa  : Y_53_2_4_1
+   Inicio  : 0
+   Fim     : 0.22844
+   Duracao : 0.22844
+--------------
+
+Tarefa  : Y_51_5_5_1
+   Inicio  : 8.0914
+   Fim     : 8.67953
+   Duracao : 0.588126
+--------------
+
+Tarefa  : Y_45_2_3_1
+   Inicio  : 2.232
+   Fim     : 3.2996
+   Duracao : 1.0676
+--------------
+
+Tarefa  : Y_56_5_5_1
+   Inicio  : 2.88192
+   Fim     : 3.97105
+   Duracao : 1.08913
+--------------
+
+Tarefa  : Z_80_2_2_1
+   Inicio  : 2.232
+   Fim     : 11.8296
+   Duracao : 9.5976
+--------------
+
+Tarefa  : Y_65_5_5_1
+   Inicio  : 3.2996
+   Fim     : 5.5981
+   Duracao : 2.2985
+--------------
+
+Tarefa  : Y_46_2_3_1
+   Inicio  : 8.67953
+   Fim     : 8.79173
+   Duracao : 0.1122
+--------------
+
+Tarefa  : Y_69_5_5_1
+   Inicio  : 4.1538
+   Fim     : 5.21234
+   Duracao : 1.05854
+--------------
+
+Tarefa  : Y_70_5_5_1
+   Inicio  : 0.3382
+   Fim     : 0.515619
+   Duracao : 0.177419
+--------------
+
+-------------------------------------------------------------------------
+Duracao Sequenciamento para periodo: 2 e de: 10.4841
+Capacidade do periodo 2e de :12
+Abordagem Hierarquica
+Total de Tarefas: 15
+
+-------------------------------------------------------------------------
+Tarefa  : Z_97_5_5_2
+   Inicio  : 0
+   Fim     : 8.1146
+   Duracao : 8.1146
+--------------
+
+Tarefa  : Y_70_3_4_2
+   Inicio  : 0
+   Fim     : 0.48408
+   Duracao : 0.48408
+--------------
+
+Tarefa  : X_23_1_2
+   Inicio  : 0.48408
+   Fim     : 10.4841
+   Duracao : 10
+--------------
+
+Tarefa  : Z_99_3_3_2
+   Inicio  : 0
+   Fim     : 4.1538
+   Duracao : 4.1538
+--------------
+
+Tarefa  : Y_65_4_4_2
+   Inicio  : 4.1538
+   Fim     : 7.5038
+   Duracao : 3.35
+--------------
+
+Tarefa  : Z_91_4_4_2
+   Inicio  : 4.1538
+   Fim     : 5.0313
+   Duracao : 0.8775
+--------------
+
+Tarefa  : Y_65_4_5_2
+   Inicio  : 4.1538
+   Fim     : 4.3038
+   Duracao : 0.15
+--------------
+
+Tarefa  : X_27_5_2
+   Inicio  : 0
+   Fim     : 4.58075
+   Duracao : 4.58075
+--------------
+
+Tarefa  : Z_81_3_4_2
+   Inicio  : 8.1146
+   Fim     : 8.14156
+   Duracao : 0.0269599
+--------------
+
+Tarefa  : Z_96_4_4_2
+   Inicio  : 0.48408
+   Fim     : 1.28208
+   Duracao : 0.798
+--------------
+
+Tarefa  : Y_45_5_5_2
+   Inicio  : 7.5038
+   Fim     : 8.348
+   Duracao : 0.8442
+--------------
+
+Tarefa  : Y_46_5_5_2
+   Inicio  : 1.28208
+   Fim     : 1.50288
+   Duracao : 0.2208
+--------------
+
+Tarefa  : Y_58_5_5_2
+   Inicio  : 1.28208
+   Fim     : 1.40248
+   Duracao : 0.1204
+--------------
+
+Tarefa  : Z_94_5_5_2
+   Inicio  : 0
+   Fim     : 0.875
+   Duracao : 0.875
+--------------
+
+Tarefa  : Y_65_3_4_2
+   Inicio  : 0
+   Fim     : 1.16592
+   Duracao : 1.16592
+--------------
+
+-------------------------------------------------------------------------
+Duracao Sequenciamento para periodo: 3 e de: 12
+Capacidade do periodo 3e de :12
+Abordagem Hierarquica
+Total de Tarefas: 11
+
+-------------------------------------------------------------------------
+Tarefa  : Y_70_5_5_3
+   Inicio  : 0
+   Fim     : 2
+   Duracao : 2
+--------------
+
+Tarefa  : Y_51_4_3_3
+   Inicio  : 0
+   Fim     : 0.42792
+   Duracao : 0.42792
+--------------
+
+Tarefa  : X_29_2_3
+   Inicio  : 0
+   Fim     : 6.25
+   Duracao : 6.25
+--------------
+
+Tarefa  : Y_65_4_3_3
+   Inicio  : 2
+   Fim     : 3.744
+   Duracao : 1.744
+--------------
+
+Tarefa  : Z_81_4_4_3
+   Inicio  : 0
+   Fim     : 0.62296
+   Duracao : 0.62296
+--------------
+
+Tarefa  : Z_91_4_4_3
+   Inicio  : 0
+   Fim     : 0.9639
+   Duracao : 0.9639
+--------------
+
+Tarefa  : Z_96_4_4_3
+   Inicio  : 2
+   Fim     : 3.434
+   Duracao : 1.434
+--------------
+
+Tarefa  : Y_51_5_5_3
+   Inicio  : 0.9639
+   Fim     : 1.4639
+   Duracao : 0.5
+--------------
+
+Tarefa  : Z_93_1_1_3
+   Inicio  : 2
+   Fim     : 12
+   Duracao : 10
+--------------
+
+Tarefa  : Y_65_5_5_3
+   Inicio  : 3.744
+   Fim     : 6.244
+   Duracao : 2.5
+--------------
+
+Tarefa  : X_27_3_3
+   Inicio  : 0.62296
+   Fim     : 10.4081
+   Duracao : 9.7851
+--------------
+
+-------------------------------------------------------------------------
+Duracao Sequenciamento para periodo: 4 e de: 9.91404
+Capacidade do periodo 4e de :12
+Abordagem Hierarquica
+Total de Tarefas: 8
+
+-------------------------------------------------------------------------
+Tarefa  : X_27_3_4
+   Inicio  : 0
+   Fim     : 2.60745
+   Duracao : 2.60745
+--------------
+
+Tarefa  : X_28_3_4
+   Inicio  : 0
+   Fim     : 9.7851
+   Duracao : 9.7851
+--------------
+
+Tarefa  : Z_97_3_3_4
+   Inicio  : 0
+   Fim     : 9.91404
+   Duracao : 9.91404
+--------------
+
+Tarefa  : Y_70_2_2_4
+   Inicio  : 0
+   Fim     : 4
+   Duracao : 4
+--------------
+
+Tarefa  : Y_65_2_2_4
+   Inicio  : 0
+   Fim     : 1
+   Duracao : 1
+--------------
+
+Tarefa  : Y_45_3_3_4
+   Inicio  : 4
+   Fim     : 4.08596
+   Duracao : 0.0859601
+--------------
+
+Tarefa  : Y_65_5_5_4
+   Inicio  : 4.08596
+   Fim     : 6.08596
+   Duracao : 2
+--------------
+
+Tarefa  : Y_70_5_5_4
+   Inicio  : 4.08596
+   Fim     : 7.08596
+   Duracao : 3
+--------------
+
